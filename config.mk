@@ -30,7 +30,8 @@ PRODUCT_COPY_FILES += \
 # Hide IME space
 PRODUCT_PACKAGES += \
     GesturalNavigationNarrowSpace \
-    GesturalNavigationNoSpace
+    GesturalNavigationNoSpace \
+    GesturalNavigationHidden
 
 # Fonts
 PRODUCT_PACKAGES += \
