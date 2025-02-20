@@ -27,6 +27,10 @@ PRODUCT_COPY_FILES += \
     vendor/addons/prebuilt/product/etc/sysconfig/preinstalled-packages-product-pixel-2018-and-newer.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/preinstalled-packages-product-pixel-2018-and-newer.xml \
     vendor/addons/prebuilt/product/etc/sysconfig/preinstalled-packages-product-pixel-2019-and-newer.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/preinstalled-packages-product-pixel-2019-and-newer.xml
 
+# Black Theme
+PRODUCT_PACKAGES += \
+    AndroidBlackThemeOverlay
+
 # Hide IME space
 PRODUCT_PACKAGES += \
     GesturalNavigationNarrowSpace \
