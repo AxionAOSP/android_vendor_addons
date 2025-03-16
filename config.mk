@@ -31,12 +31,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
 
-# Hide IME space
-PRODUCT_PACKAGES += \
-    GesturalNavigationNarrowSpace \
-    GesturalNavigationNoSpace \
-    GesturalNavigationHidden
-
 # Fonts
 PRODUCT_PACKAGES += \
     FontAccuratistOverlay \
