@@ -68,7 +68,9 @@ PRODUCT_PACKAGES += \
     FontSonySketchOverlay \
     FontStoropiaOverlay \
     FontSurferOverlay \
-    FontUbuntuOverlay
+    FontUbuntuOverlay \
+    FontAtkinsonOverlay \
+    FontJetBrainsMonoOverlay
 
 # Icon Packs
 PRODUCT_PACKAGES += \

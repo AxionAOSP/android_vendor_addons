@@ -1,6 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fonts-modification version="1">
 
+    <family name="AtkinsonHyperlegible" customizationType="new-named-family">
+        <font weight="400" style="normal" postScriptName="AtkinsonHyperlegible-Regular">
+            AtkinsonHyperlegible-Regular.ttf
+        </font>
+        <font weight="400" style="italic" postScriptName="AtkinsonHyperlegible-Italic">
+            AtkinsonHyperlegible-Italic.ttf
+        </font>
+        <font weight="700" style="normal" postScriptName="AtkinsonHyperlegible-Bold">
+            AtkinsonHyperlegible-Bold.ttf
+        </font>
+        <font weight="700" style="italic" postScriptName="AtkinsonHyperlegible-BoldItalic">
+            AtkinsonHyperlegible-BoldItalic.ttf
+        </font>
+    </family>
+
+    <family name="JetBrainsMono" customizationType="new-named-family">
+        <font weight="100" style="normal" postScriptName="JetBrainsMono-Thin">
+            JetBrainsMono-Thin.ttf
+        </font>
+        <font weight="100" style="italic" postScriptName="JetBrainsMono-ThinItalic">
+            JetBrainsMono-ThinItalic.ttf
+        </font>
+        
+        <font weight="200" style="normal" postScriptName="JetBrainsMono-ExtraLight">
+            JetBrainsMono-ExtraLight.ttf
+        </font>
+        <font weight="200" style="italic" postScriptName="JetBrainsMono-ExtraLightItalic">
+            JetBrainsMono-ExtraLightItalic.ttf
+        </font>
+
+        <font weight="300" style="normal" postScriptName="JetBrainsMono-Light">
+            JetBrainsMono-Light.ttf
+        </font>
+        <font weight="300" style="italic" postScriptName="JetBrainsMono-LightItalic">
+            JetBrainsMono-LightItalic.ttf
+        </font>
+
+        <font weight="400" style="normal" postScriptName="JetBrainsMono-Regular">
+            JetBrainsMono-Regular.ttf
+        </font>
+        <font weight="400" style="italic" postScriptName="JetBrainsMono-Italic">
+            JetBrainsMono-Italic.ttf
+        </font>
+
+        <font weight="500" style="normal" postScriptName="JetBrainsMono-Medium">
+            JetBrainsMono-Medium.ttf
+        </font>
+        <font weight="500" style="italic" postScriptName="JetBrainsMono-MediumItalic">
+            JetBrainsMono-MediumItalic.ttf
+        </font>
+
+        <font weight="600" style="normal" postScriptName="JetBrainsMono-SemiBold">
+            JetBrainsMono-SemiBold.ttf
+        </font>
+        <font weight="600" style="italic" postScriptName="JetBrainsMono-SemiBoldItalic">
+            JetBrainsMono-SemiBoldItalic.ttf
+        </font>
+
+        <font weight="700" style="normal" postScriptName="JetBrainsMono-Bold">
+            JetBrainsMono-Bold.ttf
+        </font>
+        <font weight="700" style="italic" postScriptName="JetBrainsMono-BoldItalic">
+            JetBrainsMono-BoldItalic.ttf
+        </font>
+
+        <font weight="800" style="normal" postScriptName="JetBrainsMono-ExtraBold">
+            JetBrainsMono-ExtraBold.ttf
+        </font>
+        <font weight="800" style="italic" postScriptName="JetBrainsMono-ExtraBoldItalic">
+            JetBrainsMono-ExtraBoldItalic.ttf
+        </font>
+    </family>
+
     <family name="Rookery-Regular" customizationType="new-named-family">
         <font weight="400" style="normal" postScriptName="RookeryNew-Regular">
             Rookery-Regular.otf
