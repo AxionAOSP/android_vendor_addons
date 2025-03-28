@@ -45,6 +45,7 @@ PRODUCT_PACKAGES += \
     FontCoolstoryOverlay \
     FontExotwoOverlay \
     FontFifa2018Overlay \
+    FontGoogleSansOverlay \
     FontGrandHotelOverlay \
     FontHarmonySansOverlay \
     FontLatoOverlay \
