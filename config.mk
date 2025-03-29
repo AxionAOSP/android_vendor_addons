@@ -43,8 +43,11 @@ PRODUCT_PACKAGES += \
     FontComicSansOverlay \
     FontCookieRunOverlay \
     FontCoolstoryOverlay \
+    FontEvoSansOverlay \
+    FontEvolveSansOverlay \
     FontExotwoOverlay \
     FontFifa2018Overlay \
+    FontGoogleSansOverlay \
     FontGrandHotelOverlay \
     FontHarmonySansOverlay \
     FontLatoOverlay \
