@@ -67,7 +67,6 @@ PRODUCT_PACKAGES += \
     FontRubikOverlay \
     FontSanFranciscoDisplayProSourceOverlay \
     FontSamsungOneOverlay \
-    FontSansSerifOverlay \
     FontSonySketchOverlay \
     FontStoropiaOverlay \
     FontSurferOverlay \
