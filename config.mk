@@ -141,6 +141,58 @@ PRODUCT_PACKAGES += \
     SystemUIClocks-Metro \
     SystemUIClocks-NumOverlap
 
+PRODUCT_PACKAGES += \
+    fonts_customization.xml \
+    ClockFontAccuratistOverlay \
+    ClockFontAlphaWoodOverlay \
+    ClockFontAmaranteOverlay \
+    ClockFontBariolOverlay \
+    ClockFontBrandayolqOverlay \
+    ClockFontBudmoJigglerOverlay \
+    ClockFontCagliostroOverlay \
+    ClockFontCatOverlay \
+    ClockFontCoconOverlay \
+    ClockFontComfortaaOverlay \
+    ClockFontComicSansOverlay \
+    ClockFontConcentrateOverlay \
+    ClockFontCookieRunOverlay \
+    ClockFontCoolstoryOverlay \
+    ClockFontCrackmanOverlay \
+    ClockFontElriott2Overlay \
+    ClockFontExotwoOverlay \
+    ClockFontFifa2018Overlay \
+    ClockFontGrandHotelOverlay \
+    ClockFontHangedOverlay \
+    ClockFontHarmonySansOverlay \
+    ClockFontKGOnlyHopeOverlay \
+    ClockFontLatoOverlay \
+    ClockFontLinotteOverlay \
+    ClockFontNokiaPureOverlay \
+    ClockFontNothingDotHeadlineOverlay \
+    ClockFontNunitoOverlay \
+    ClockFontOneplusSansOverlay \
+    ClockFontOneplusSlateOverlay \
+    ClockFontOswaldOverlay \
+    ClockFontPlayOverlay \
+    ClockFontQuandoOverlay \
+    ClockFontRedressedOverlay \
+    ClockFontReemKufiOverlay \
+    ClockFontRemponkOverlay \
+    ClockFontRobotoCondensedOverlay \
+    ClockFontRubikOverlay \
+    ClockFontSamsungOneOverlay \
+    ClockFontSansSerifOverlay \
+    ClockFontSonySketchOverlay \
+    ClockFontSpaceGameOverlay \
+    ClockFontStoropiaOverlay \
+    ClockFontSurferOverlay \
+    ClockFontUbuntuOverlay \
+    ClockFontZnikomitNo24Overlay \
+    ClockFontIOSOverlay \
+    ClockFontHerculesOverlay \
+    ClockFontNtype82Overlay \
+    ClockFontSubwayOverlay
+
 TARGET_PREBUILT_BCR ?= true
 # Basic call recorder
 ifeq ($(strip $(TARGET_PREBUILT_BCR)),true)
