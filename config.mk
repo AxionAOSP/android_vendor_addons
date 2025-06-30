@@ -135,15 +135,6 @@ PRODUCT_PACKAGES += \
     IconShapeVesselOverlay
 
 PRODUCT_PACKAGES += \
-    SystemUIClocks-BigNum \
-    SystemUIClocks-Calligraphy \
-    SystemUIClocks-Flex \
-    SystemUIClocks-Growth \
-    SystemUIClocks-Inflate \
-    SystemUIClocks-Metro \
-    SystemUIClocks-NumOverlap
-
-PRODUCT_PACKAGES += \
     fonts_customization.xml \
     ClockFontAccuratistOverlay \
     ClockFontAlphaWoodOverlay \
