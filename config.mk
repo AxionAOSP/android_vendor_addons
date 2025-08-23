@@ -73,7 +73,8 @@ PRODUCT_PACKAGES += \
     FontJetBrainsMonoOverlay \
     FontRobotoFlexOverlay \
     FontRobotoOverlay \
-    FontInterOverlay
+    FontInterOverlay \
+    FontFucekOverlay
 
 # Icon Packs
 PRODUCT_PACKAGES += \
