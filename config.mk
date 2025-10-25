@@ -31,50 +31,11 @@ PRODUCT_PACKAGES += \
 
 # Fonts
 PRODUCT_PACKAGES += \
-    FontAccuratistOverlay \
-    FontAclonicaOverlay \
-    FontAmaranteOverlay \
-    FontBariolOverlay \
-    FontCagliostroOverlay \
-    FontCoconOverlay \
-    FontComfortaaOverlay \
-    FontComicSansOverlay \
-    FontCookieRunOverlay \
-    FontCoolstoryOverlay \
-    FontEvoSansOverlay \
-    FontEvolveSansOverlay \
-    FontExotwoOverlay \
-    FontFifa2018Overlay \
-    FontGoogleSansOverlay \
-    FontGrandHotelOverlay \
-    FontHarmonySansOverlay \
-    FontLatoOverlay \
-    FontLinotteOverlay \
-    FontNokiaPureOverlay \
-    FontNothingDotHeadlineOverlay \
-    FontNothingDotOverlay \
-    FontNunitoOverlay \
-    FontOneplusSansOverlay \
-    FontOneplusSlateOverlay \
-    FontOswaldOverlay \
-    FontPlayOverlay \
-    FontQuandoOverlay \
-    FontRedressedOverlay \
-    FontReemKufiOverlay \
-    FontRobotoCondensedOverlay \
-    FontRubikOverlay \
-    FontSanFranciscoDisplayProSourceOverlay \
-    FontSamsungOneOverlay \
-    FontSonySketchOverlay \
-    FontStoropiaOverlay \
-    FontSurferOverlay \
-    FontUbuntuOverlay \
-    FontAtkinsonOverlay \
-    FontJetBrainsMonoOverlay \
     FontRobotoFlexOverlay \
     FontRobotoOverlay \
     FontInterOverlay \
-    FontFucekOverlay
+    FontFucekOverlay \
+    FontGoogleSansOverlay
 
 # Icon Packs
 PRODUCT_PACKAGES += \
