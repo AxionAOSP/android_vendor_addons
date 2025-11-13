@@ -37,6 +37,7 @@ PRODUCT_PACKAGES += \
     FontFucekOverlay \
     FontGoogleSansOverlay
 
+ifneq ($(filter theme_engine,$(TARGET_AX_FLAGS)),theme_engine)
 # Icon Packs
 PRODUCT_PACKAGES += \
     IconPackCircularAndroidOverlay \
@@ -94,6 +95,7 @@ PRODUCT_PACKAGES += \
     IconShapeTaperedRectOverlay \
     IconShapeTeardropOverlay \
     IconShapeVesselOverlay
+endif
 
 PRODUCT_PACKAGES += \
     fonts_customization.xml 
