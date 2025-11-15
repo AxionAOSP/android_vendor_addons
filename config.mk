@@ -35,7 +35,8 @@ PRODUCT_PACKAGES += \
     FontRobotoOverlay \
     FontInterOverlay \
     FontFucekOverlay \
-    FontGoogleSansOverlay
+    FontGoogleSansOverlay \
+    FontBeautyOverlay
 
 ifneq ($(filter theme_engine,$(TARGET_AX_FLAGS)),theme_engine)
 # Icon Packs

@@ -47,6 +47,21 @@
     <alias name="goudy" to="fucek" />
     <alias name="fantasy" to="fucek" />
     <alias name="ITC Stone Serif" to="fucek" />
+    
+    <!-- Beauty Font -->
+    <family customizationType="new-named-family" name="beauty">
+        <font weight="400" style="normal">Beauty.ttf</font>
+    </family>
+    <alias name="oduda-semi-bold" to="beauty" weight="600" />
+    <alias name="oduda-bold" to="beauty" weight="700" />
+    <alias name="times" to="beauty" />
+    <alias name="times new roman" to="beauty" />
+    <alias name="palatino" to="beauty" />
+    <alias name="georgia" to="beauty" />
+    <alias name="baskerville" to="beauty" />
+    <alias name="goudy" to="beauty" />
+    <alias name="fantasy" to="beauty" />
+    <alias name="ITC Stone Serif" to="beauty" />
 
     <!-- Inter -->
     <family customizationType="new-named-family" name="inter">
