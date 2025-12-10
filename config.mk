@@ -37,66 +37,6 @@ PRODUCT_PACKAGES += \
     FontFucekOverlay \
     FontGoogleSansOverlay
 
-ifneq ($(filter theme_engine,$(TARGET_AX_FLAGS)),theme_engine)
-# Icon Packs
-PRODUCT_PACKAGES += \
-    IconPackCircularAndroidOverlay \
-    IconPackCircularSystemUIOverlay \
-    IconPackVictorAndroidOverlay \
-    IconPackVictorSystemUIOverlay \
-    IconPackSamAndroidOverlay \
-    IconPackSamSystemUIOverlay \
-    IconPackKaiAndroidOverlay \
-    IconPackKaiSystemUIOverlay \
-    IconPackFilledAndroidOverlay \
-    IconPackFilledSystemUIOverlay \
-    IconPackPUIAndroidOverlay \
-    IconPackPUISystemUIOverlay \
-    IconPackRoundedAndroidOverlay \
-    IconPackRoundedSystemUIOverlay \
-    IconPackNostalgicAndroidOverlay \
-    IconPackNostalgicSystemUIOverlay \
-    IconPackOOSAndroidOverlay \
-    IconPackOOSSystemUIOverlay \
-    IconPackOutlineAndroidOverlay \
-    IconPackOutlineSystemUIOverlay \
-    IconPackAcherusAndroidOverlay \
-    IconPackAcherusSystemUIOverlay \
-    IconPackAuroraAndroidOverlay \
-    IconPackAuroraSystemUIOverlay \
-    IconPackGradiconAndroidOverlay \
-    IconPackGradiconSystemUIOverlay \
-    IconPackLornAndroidOverlay \
-    IconPackLornSystemUIOverlay \
-    IconPackPlumpySystemUIOverlay \
-    IconPackPlumpyAndroidOverlay \
-    IconPackXperiaAndroidOverlay \
-    IconPackXperiaSystemUIOverlay
-
-# Icon Shapes
-PRODUCT_PACKAGES += \
-    IconShapeCloudyOverlay \
-    IconShapeCylinderOverlay \
-    IconShapeFlowerOverlay \
-    IconShapeHeartOverlay \
-    IconShapeHexagonOverlay \
-    IconShapeIosOverlay \
-    IconShapeLeafOverlay \
-    IconShapeMeowOverlay \
-    IconShapePebbleOverlay \
-    IconShapeRoundedHexagonOverlay \
-    IconShapeRoundedRectOverlay \
-    IconShapeSamsungOverlay \
-    IconShapeScrollOverlay \
-    IconShapeStretchedOverlay \
-    IconShapeSquareOverlay \
-    IconShapeSquircleOverlay \
-    IconShapeStretchedOverlay \
-    IconShapeTaperedRectOverlay \
-    IconShapeTeardropOverlay \
-    IconShapeVesselOverlay
-endif
-
 PRODUCT_PACKAGES += \
     fonts_customization.xml 
 
