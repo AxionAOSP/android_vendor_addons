@@ -1,8 +1,0 @@
-android_app {
-    name: "IconPackNostalgicUnified",
-    resource_dirs: ["res"],
-    manifest: "AndroidManifest.xml",
-    sdk_version: "current",
-    product_specific: true,
-    certificate: "platform",
-}
