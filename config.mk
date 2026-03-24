@@ -34,8 +34,7 @@ PRODUCT_PACKAGES += \
     FontRobotoFlexOverlay \
     FontRobotoOverlay \
     FontInterOverlay \
-    FontFucekOverlay \
-    FontGoogleSansOverlay
+    FontFucekOverlay
 
 PRODUCT_PACKAGES += \
     fonts_customization.xml 
