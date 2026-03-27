@@ -34,7 +34,8 @@ PRODUCT_PACKAGES += \
     FontRobotoFlexOverlay \
     FontRobotoOverlay \
     FontInterOverlay \
-    FontFucekOverlay
+    FontFucekOverlay \
+    FontExtFontOverlay
 
 PRODUCT_PACKAGES += \
     fonts_customization.xml 
