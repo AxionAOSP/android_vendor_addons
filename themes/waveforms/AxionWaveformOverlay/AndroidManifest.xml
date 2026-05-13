@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="android.theme.customization.qs_waveform.axion">
+
+    <overlay
+        android:targetPackage="com.android.systemui"
+        android:category="android.theme.customization.qs_waveform"
+        android:priority="1"
+        android:isStatic="false" />
+
+    <application
+        android:label="Axion Waveform"
+        android:hasCode="false" />
+</manifest>
